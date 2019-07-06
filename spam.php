@@ -10,7 +10,7 @@ $banner = "\e[36;1m
                 #     ##      
                               
                                                                                  
-[#] Yapulsa Spam Sms [#]  
+[#] Free Spamming Sms [#]  
                                    
 Author : ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ                  
 Team   : No Team                   
@@ -46,10 +46,10 @@ $gas = curl_exec($ch);
 curl_close($ch);
 
 if (preg_match("/HTTP\/1.1 200 OK/", $gas, $res)) {
-	echo $i.". spam sukses\n";
+	echo $i.". spamming succes by ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ\n";
 	sleep(1);
 	}else{
-		echo $i.". spam gagal\n";
+		echo $i.". spamming failed by ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ\n";
 		sleep(1);
 		}
 
