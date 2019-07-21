@@ -1,20 +1,18 @@
 <?php
 $banner = "\e[36;1m                                                                                 
                                                                                  
-           #         ######   
-           #    #             
-  ######   #    #  ########## 
-           #    #  #        # 
-           #######        ##  
-##########      #       ##    
-                #     ##      
-                              
-                                                                                 
-[#] Free Spamming Sms [#]  
-                                   
-Author : ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ                  
-Team   : No Team                   
-Github : https//github.com/TheSploit/\n\n\e[0;1m";
+			SPAM CALL MASSAL v.4.1%s
+ ._________________.
+ |.---------------.|	%sAuthor: TheSploit%s
+ ||               ||	%sContact: 081316577616%s
+ ||   -._ .-.     ||	%sGithub: https://github.com/TheSploit%s
+ ||   -._| | |    ||	%sStatus: Jomblo%s
+ ||   -._|"|"|    ||
+ ||   -._|.-.|    ||
+ ||_______________||	%sMASUKAN NOMOR DENGAN "62" (CTH: 628XXXXXX)%s
+  \_____ [] ______/
+  /______________\
+<NOTE> Jika terjadi ERROR atau BUG dan lain-lain, silahkan hubungi saya"""%(c,r,g,r,g,r,g,r,g,r,w,r))
                                                                                  
                                                                                                                                                                  
 sleep(3);
