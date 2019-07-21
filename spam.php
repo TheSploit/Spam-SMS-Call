@@ -16,6 +16,7 @@ $banner = "\e[36;1m
 Author : ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ                  
 Team   : No Team                   
 Github : https//github.com/TheSploit/\n\n\e[0;1m";
+
 echo Selamat datang kak, Siapa nick kaka? #tulisan keluar
 read nick #membaca yang ditulis
 clear
