@@ -15,7 +15,8 @@ $banner = "\e[36;1m
                                    
 Author : ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ                  
 Team   : No Team                   
-Github : https//github.com/TheSploit/\n\n\e[0;1m";                                                                                                                                                                                                                                         
+Github : https//github.com/TheSploit/\n\n\e[0;1m";     
+
 sleep(3);
 echo $banner;
 sleep(2);
