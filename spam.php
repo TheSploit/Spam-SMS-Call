@@ -1,37 +1,12 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-# Coded by TheSploit
-"""
-GansByBY ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ
-Jangan lupa Kunjungi :https://myamazingapk.blogspot.com
-"""
-
-try:
-	import os, requests, time
-except ModuleNotFoundError:
-	print("\nSilahkeun Install module requests,BELUM Di Install")
-	print("$ pip install requests\n")
-	exit()
-
-os.system('clear')
-c=('\033[1;36m')
-r=('\033[1;31m')
-g=('\033[1;32m')
-w=('\033[1;37m')
-print("""%s
-			SPAM CALL MASSAL v.4.1%s
- ._________________.
- |.---------------.|	%sAuthor: TheSploit%s
- ||               ||	%sContact: 081316577616%s
- ||   -._ .-.     ||	%sGithub: https://github.com/TheSploit%s
- ||   -._| | |    ||	%sStatus: Jomblo%s
- ||   -._|"|"|    ||
- ||   -._|.-.|    ||
- ||_______________||	%sMASUKAN NOMOR DENGAN "62" (CTH: 628XXXXXX)%s
-  \_____ [] ______/
-  /______________\
-<NOTE> Jika terjadi ERROR atau BUG dan lain-lain, silahkan hubungi saya"""%(c,r,g,r,g,r,g,r,g,r,w,r))
-
+<?php
+$banner = "\e[36;1m                                                                                 
+                                                                                 
+[#] Free Spamming Sms [#]  
+                                   
+Author : ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ                  
+Team   : No Team                   
+Github : https//github.com/TheSploit/\n\n\e[0;1m";
+                                                                                 
                                                                                                                                                                  
 sleep(3);
 echo $banner;
