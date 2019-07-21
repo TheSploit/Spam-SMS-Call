@@ -15,24 +15,7 @@ $banner = "\e[36;1m
                                    
 Author : ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ                  
 Team   : No Team                   
-Github : https//github.com/TheSploit/\n\n\e[0;1m";
-
-echo Selamat datang kak, Siapa nick kaka? #tulisan keluar
-read nick #membaca yang ditulis
-clear
-Spam
-echo Selamat datang $nick ":)"
-echo
-echo "Mulai Spam Sms?"
-echo "y/n?"
-read mulai
-if [ $mulai = "y" ]; then
-      spam
-else
-      close
-fi
-                                                                                 
-                                                                                                                                                                 
+Github : https//github.com/TheSploit/\n\n\e[0;1m";                                                                                                                                                                                                                                         
 sleep(3);
 echo $banner;
 sleep(2);
