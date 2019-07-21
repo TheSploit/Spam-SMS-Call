@@ -1,11 +1,35 @@
 <?php
 $banner = "\e[36;1m                                                                                 
-                                                                                 
+
+._________________.
+|.---------------.|
+||               ||
+||   -._ .-.     ||
+||   -._| | |    ||
+||   -._|"|"|    ||
+||   -._|.-.|    ||
+||_______________||
+ \_____ [] ______/
+ /______________\
 [#] Free Spamming Sms [#]  
                                    
 Author : ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ                  
 Team   : No Team                   
 Github : https//github.com/TheSploit/\n\n\e[0;1m";
+echo Selamat datang kak, Siapa nick kaka? #tulisan keluar
+read nick #membaca yang ditulis
+clear
+Spam
+echo Selamat datang $nick ":)"
+echo
+echo "Mulai Spam Sms?"
+echo "y/n?"
+read mulai
+if [ $mulai = "y" ]; then
+      spam
+else
+      close
+fi
                                                                                  
                                                                                                                                                                  
 sleep(3);
