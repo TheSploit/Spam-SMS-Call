@@ -1,18 +1,7 @@
 <?php
 $banner = "\e[36;1m                                                                                 
 
-._________________.
-|.---------------.|
-||               ||
-||   -._ .-.     ||
-||   -._| | |    ||
-||   -._|"|"|    ||
-||   -._|.-.|    ||
-||_______________||
- \_____ [] ______/
- /______________\
-[#] Free Spamming Sms [#]  
-                                   
+[#] Free Spamming Sms [#]                                     
 Author : ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ                  
 Team   : No Team                   
 Github : https//github.com/TheSploit/\n\n\e[0;1m";     
