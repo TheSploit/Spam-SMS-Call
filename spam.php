@@ -1,6 +1,24 @@
-<?php
-$banner = "\e[36;1m                                                                                 
-                                                                                 
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+# Coded by TheSploit
+"""
+GansByBY ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ
+Jangan lupa Kunjungi :https://myamazingapk.blogspot.com
+"""
+
+try:
+	import os, requests, time
+except ModuleNotFoundError:
+	print("\nSilahkeun Install module requests,BELUM Di Install")
+	print("$ pip install requests\n")
+	exit()
+
+os.system('clear')
+c=('\033[1;36m')
+r=('\033[1;31m')
+g=('\033[1;32m')
+w=('\033[1;37m')
+print("""%s
 			SPAM CALL MASSAL v.4.1%s
  ._________________.
  |.---------------.|	%sAuthor: TheSploit%s
@@ -13,7 +31,7 @@ $banner = "\e[36;1m
   \_____ [] ______/
   /______________\
 <NOTE> Jika terjadi ERROR atau BUG dan lain-lain, silahkan hubungi saya"""%(c,r,g,r,g,r,g,r,g,r,w,r))
-                                                                                 
+
                                                                                                                                                                  
 sleep(3);
 echo $banner;
